@@ -1,0 +1,25 @@
+export const data=[{
+    id:1,
+    srcimg:"/image/furoda/27228d62-b441-450b-9ede-3c759c773eef.jpg",
+    title:"Paket Haji Furoda",
+    content:"Haji Furoda adalah program haji non kuota yang legal dan terdaftar dalam kuota haji pemerintah Arab Saudi, dan dilaporkan secara resmi ke Kementerian Haji Indonesia",
+    contact:"",
+    url:"/paket-tour/haji-furoda",
+},
+{
+    id:1,
+    srcimg:"/image/88f44f0b-9ac6-416b-a65e-85f6ae54cde2.jpg",
+    title:"Paket Haji Khusus",
+    content:"Kenapa Haji Khusus ,karena waktu tunggu Haji Khusus relatif lebih singkat dibandingkan dengan Haji Reguler. Waktu tunggu sekitar 5 sampai 6 tahun.",
+    contact:"",
+    url:"",
+},
+{
+    id:1,
+    srcimg:"/image/umroh_reguler.jpg",
+    title:"Paket Umroh",
+    content:"Paket Umroh terdiri dari Umroh Reguler dan Umroh Plus Turki, yang mencakup perjalanan umroh standar serta tambahan wisata ke Turki setelah umroh selesai",
+    contact:"",
+    url:"/paket-tour/umroh",
+},
+]
