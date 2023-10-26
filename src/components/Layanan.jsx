@@ -10,7 +10,7 @@ export const Layanan = () => {
         <div className="flex lg:flex-row mf:flex-col gap-10  ">
             <div className="flex flex-col 2xl:w-[25vw] xl:w-[34vw] ">
                 <img className="lg:h-[700px]  2xl:w-[25vw] xl:w-[34vw] mf:w-[60vw] mf:self-center"
-                    src="/image/rtw01.jpg" alt/>
+                    src="/image/umrohdesember2023.webp" alt="umroh akhir tahun 2023 | umroh desember 2023 murah | 32 juta |complete tanpa tambahan biaya lagi "/>
                 <div
                     className="flex flex-col gap-4 items-center justify-center py-10  mf:px-5 lg:px-0">
                     <h1
@@ -50,7 +50,7 @@ export const Layanan = () => {
             </div>
             <div className="flex flex-col 2xl:w-[25vw] xl:w-[34vw] mf:hidden lg:block">
                 <img className="h-[700px] 2xl:w-[25vw] xl:w-[34vw] mf:px-5 lg:px-0"
-                    src="/image/rtw01.jpg" alt/>
+                    src="/image/umrohdesember2023.webp" alt="haji furoda bersama ustadz syam ,haji akhbar 2024"/>
                 <div
                     className="flex flex-col gap-4 items-center justify-center py-10 ">
                     <h1
@@ -94,7 +94,7 @@ export const Layanan = () => {
         <div className="flex lg:flex-row mf:flex-col gap-10  ">
             <div className="flex flex-col 2xl:w-[25vw] xl:w-[34vw] ">
                 <img className="lg:h-[700px]  2xl:w-[25vw] xl:w-[34vw] mf:w-[60vw] mf:self-center"
-                    src="/image/furoda/27228d62-b441-450b-9ede-3c759c773eef.jpg" alt/>
+                    src="/image/furoda.webp" alt/>
                 <div
                     className="flex flex-col gap-4 items-center justify-center py-10  mf:px-5 lg:px-0">
                     <h1
@@ -128,7 +128,7 @@ export const Layanan = () => {
             </div>
             <div className="flex flex-col 2xl:w-[25vw] xl:w-[34vw] mf:hidden lg:block">
                 <img className="lg:h-[700px]  2xl:w-[25vw] xl:w-[34vw] mf:w-[60vw] mf:self-center"
-                    src="/image/furoda/27228d62-b441-450b-9ede-3c759c773eef.jpg" alt/>
+                    src="/image/furoda.webp" alt/>
                 <div
                     className="flex flex-col gap-4 items-center justify-center py-10  mf:px-5 lg:px-0">
                     <h1

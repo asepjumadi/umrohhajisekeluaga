@@ -29,7 +29,7 @@ export const Tentang = () => {
                     className="flex lg:flex-row mf:flex-col py-10 justify-center items-center mx-auto max-w-screen-lg">
                     <div className="flex flex-col  lg:w-full">
                         <img src="/image/WEB2.jpg"
-                            className="w-80 h-80" />
+                            className="w-80 h-80" alt='umroh bersama keluarga jadi kunci melimpahnya pahala dan memantapkan diri untuk reuni abadi disurga '/>
                     </div>
                     <div
                         className="flex flex-col mf:px-10 mf:pt-5 lg:pt-0 lg:px-0  ">
@@ -66,7 +66,7 @@ export const Tentang = () => {
                                         d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" /></svg>
                             </a>
                             <a href className="h-10 w-10 ">
-                                <svg className="fill-amber-400"
+                                <svg className="fill-amber-400" 
                                     xmlns="http://www.w3.org/2000/svg"
                                     viewBox="0 0 576 512"><path
                                         d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></svg>
