@@ -7,7 +7,7 @@ export const PaketTour = () => {
         <div>
             <UnHeader />
             <div className='lg:p-20 mf:p-5 flex flex-col items-center justify-center'>
-                <div className='flex lg:flex-row mf:flex-col lg:gap-6 mf:gap-4 mf:pt-20 lg:pt-5'>
+                <div className=' lg:flex-row mf:flex-col lg:gap-6 mf:gap-4 mf:pt-20 lg:pt-5 grid lg:grid-cols-4 mf:grid-flow-col-1 gap-4'>
                     {
                         data.map((item) => {
                             return (
